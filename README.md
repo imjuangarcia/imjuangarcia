@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm a Product Designer 🎨 & Front-End Developer 👨🏻‍💻 from Buenos Aires, Argentina 🇦🇷. My pronouns are _he/him_. When not around here, I'm probably playing Guitar 🎸 or Basketball 🏀, drinking [mate](https://en.wikipedia.org/wiki/Mate_(drink)) 🧉, or playing with my pets 🐱🐶.
+
+You can find me at:
+* 🔗 [www.juangarcia.design](https://www.juangarcia.design)
+* 📫 [hello@juangarcia.com.ar](mailto:hello@juangarcia.com.ar)
+* 🏀 [@imjuangarcia](https://dribbble.com/imjuangarcia)
+* 🅱️ [@imjuangarcia](https://behance.net/imjuangarcia)
+* 💻 [@imjuangarcia](https://codepen.io/imjuangarcia)
+* 🐦 [@imjuangarcia](https://twitter.com/imjuangarcia)
+
 <!--
 **imjuangarcia/imjuangarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
