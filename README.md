@@ -3,7 +3,7 @@
 I'm a Product Designer 🎨 & Front-End Developer 👨🏻‍💻 from Buenos Aires, Argentina 🇦🇷. My pronouns are _he/him_. When not around here, I'm probably playing Guitar 🎸 or Basketball 🏀, drinking [mate](https://en.wikipedia.org/wiki/Mate_(drink)) 🧉, or playing with my pets 🐱🐶.
 
 You can find me at:
-* 🔗 [www.jmg.land](https://www.juanmartingarcia.com)
+* 🔗 [www.juanmartingarcia.com](https://www.juanmartingarcia.com)
 * 🏀 [@imjuangarcia](https://dribbble.com/imjuangarcia)
 * 🅱️ [@imjuangarcia](https://behance.net/imjuangarcia)
 * 💻 [@imjuangarcia](https://codepen.io/imjuangarcia)
